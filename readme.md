@@ -1,4 +1,34 @@
 ## DSA Questions
+
+8. Factorial Calculation
+
+**Statement:** Write a program to calculate the factorial of a non-negative integer \( n \). The factorial of \( n \) is denoted as \( n! \) and is the product of all positive integers less than or equal to \( n \).
+
+**Example:**
+```
+Input: n = 5
+Output: 120
+```
+> Explanation: \( 5! = 5 * 4 * 3 * 2 * 1 = 120)
+
+---
+
+7. Number Triangle Pattern
+
+**Statement:** Develop a program to print a triangle pattern of numbers. The program should take a single input from the user, which represents the number of rows in the triangle. Each row of the triangle should contain consecutive numbers starting from 1.
+
+**Example:**
+```
+Input: n = 5
+Output:
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+```
+---
+
 6. Simple Interest Calculation
    
 **Statement:** Calculate the simple interest based on the principal amount (\(P\)), the rate of interest (\(r\)), and the time period (\(t\)) in years, with all three values provided by the user.
